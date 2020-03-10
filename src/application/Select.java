@@ -7,7 +7,7 @@ import java.sql.Statement;
 
 import db.DB;
 
-public class Main {
+public class Select {
 
 	public static void main(String[] args) throws SQLException {
 
@@ -38,3 +38,4 @@ public class Main {
 		}
 	}
 }
+
